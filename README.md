@@ -96,14 +96,27 @@ Open [`ONE_PLATE_AMS_Tuxedo_PrintedMoneyClip_SLICED_P1S_BambuPETGBasic.3mf`](red
 
 ---
 
-## Bill of Materials (Amazon Canada)
+## Bill of Materials (Amazon Canada — `amazon.ca`)
 
-| Item | Link | Notes |
-|---|---|---|
-| **Black Pre-Sewn Ridge Card Elastic Band Kit** | [Moibunka 25-Pcs Black Replacement Elastic Kit](https://www.amazon.ca/dp/B0GQQN46XJ) | Dark black stretch T-band (doesn't show dirt, zero sewing) |
-| **Black M2 Countersunk Screws + M2 Hex Nuts + Wrench** | [HanTof 900-Pcs Black Grade 10.9 DIN7991 Flat-Head M2/M2.5/M3 Kit](https://www.amazon.ca/dp/B0FF4TVQ7G) | Includes `M2×6 mm` (back), `M2×10 mm` (front), `M2` hex nuts, and matching hex key |
-| *(Optional)* **Matte Black Forged Spring-Steel Money Clip** | [MINBERAND Ridge Money Clip & Cash Strap Kit](https://www.amazon.ca/dp/B0HJV2V9D5) | Optional metal upgrade if swapping from the 3D-printed PETG leaf-spring clip |
-| *(Optional)* **Matte Carbon-Fiber Filament** | [FLASHFORGE PETG-CF 1.75 mm Black 1 kg](https://www.amazon.ca/dp/B0D7VXC38N) | Requires hardened steel nozzle; confirmed RFID & AirTag transparent |
+> **Important hardware note:** If you buy the Moibunka elastic kit, you **still need** the HanTof M2 screw & nut kit — the 20 screws inside the Moibunka kit are tiny `M2 × 3 mm` screws (with no nuts) made for thin metal plates and are too short for the `7.7 mm` AirTag front plate (`M2 × 10 mm`) or `3.4 mm` back plate (`M2 × 6 mm`).
+
+| Item | Verified Amazon.ca Link | Price (CAD) | Notes |
+|---|---|---|---|
+| **Black Pre-Sewn Ridge Card Elastic Band Kit** *(Required)* | [Moibunka 25-Pcs Black Replacement Elastic Kit](https://www.amazon.ca/dp/B0GQQN46XJ) | ~\$19 CAD | Dark black stretch T-band (hides pocket dirt, zero sewing) + spare cash strap & drivers |
+| **Black M2 Countersunk Screws + M2 Hex Nuts + Wrench** *(Required)* | [HanTof 900-Pcs Black Grade 10.9 DIN7991 Flat-Head M2/M2.5/M3 Kit](https://www.amazon.ca/dp/B0FF4TVQ7G) | ~\$28 CAD | Includes `M2 × 6 mm` (back), `M2 × 10 mm` (front), `M2` hex nuts, and matching hex key *(also available in `Black-Torx Flat Head` on the same listing)* |
+| *(Optional)* **1-Inch Black Non-Roll Woven Elastic Spool** | [Dritz 9407B 1-Inch × 12-Yard Black Non-Roll Woven Elastic](https://www.amazon.ca/dp/B007XU23ZU) | ~\$29 CAD | True woven non-roll elastic if you ever want to sew custom-tension bands |
+| *(Optional)* **Matte Black Forged Spring-Steel Money Clip** | [MINBERAND Ridge Money Clip & Cash Strap Kit](https://www.amazon.ca/dp/B0HJV2V9D5) | ~\$33 CAD | Metal upgrade if swapping from the 3D-printed PETG leaf-spring clip |
+| *(Optional)* **Matte Carbon-Fiber PETG-CF Filament** | [FLASHFORGE PETG-CF 1.75 mm Black, 1 kg](https://www.amazon.ca/dp/B0D7VXC38N) | ~\$43 CAD | Forged-carbon matte finish; requires hardened steel nozzle; confirmed RFID & AirTag transparent |
+
+---
+
+## Step-by-Step Assembly
+
+1. **Seat the 14 Captive M2 Hex Nuts:** Press 7× `M2` hex nuts into the card-side pockets of `01_Front_Inner_Plate` and 7× into `03_Back_Inner_Plate` (each nut sits `0.25 mm` recessed below the card face so it never scratches cards).
+2. **Route the Black Elastic T-Band:** Lay the pre-sewn black Ridge elastic band flat inside the ribbed T-channels of both white inner plates with both thumb notches aligned on the same corner.
+3. **Load the AirTag & Keyfob:** Flip `02_Front_Outer_Plate_AirTag_Keyfob` open-side up, drop your Apple AirTag **stainless-steel cap down** into the `Ø 32.70 mm` watch-bezel cavity, and drop your keyfob into the lower blind pocket.
+4. **Install the 3D-Printed PETG Money Clip:** Hook `07_Printed_PETG_Money_Clip` onto the `1.55 mm` bottom short-edge lip of `04B_Back_Outer_Plate_MoneyClip` so its `0.67 mm` locking tooth drops squarely into the internal keyway.
+5. **Bolt Both Halves Together:** Tighten **7× `M2 × 10 mm`** black countersunk screws on the front plate and **7× `M2 × 6 mm`** on the back plate evenly in a star pattern until dead-flush *(optional: add a tiny drop of Blue Loctite 242 on the nut threads)*.
 
 ---
 
